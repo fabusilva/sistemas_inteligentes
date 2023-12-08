@@ -1,0 +1,36 @@
+[
+  {
+    "time": 2.754,
+    "valid": true,
+    "error-count": 0,
+    "table-count": 1,
+    "tables": [
+      {
+        "time": 2.691,
+        "valid": true,
+        "error-count": 0,
+        "row-count": 769,
+        "source": "https://s3.amazonaws.com/rawstore.datahub.io/e5ef1d87d57240919ec9990c580355c2.csv",
+        "headers": [
+          "preg",
+          "plas",
+          "pres",
+          "skin",
+          "insu",
+          "mass",
+          "pedi",
+          "age",
+          "class"
+        ],
+        "scheme": "https",
+        "format": "csv",
+        "encoding": "iso8859-1",
+        "schema": "table-schema",
+        "errors": []
+      }
+    ],
+    "warnings": [],
+    "preset": "table",
+    "resource": "diabetes"
+  }
+]
