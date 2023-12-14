@@ -27,6 +27,7 @@ Esses são os dados que serão utlizado para a atividade
 
 ## Grafico de dispersão dos dados acima
 
+![Geafico](results/Grafico_de_dispersão.png)
 
 ## Bibliotecas usadas no código
 Foram usadas 3 bibliotecas:
@@ -71,3 +72,5 @@ Foram usadas 3 bibliotecas:
 | 6 | 2.2       | 5.8       | 2.        | 2       |
 
 ## Grafico de dispersão dos dados obtidos:
+
+![Saida do código](results/Figure_1.png)
